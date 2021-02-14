@@ -1,5 +1,6 @@
 # Anderson Fonseca
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Fonseca-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fonseca-b459a0177/)](https://www.linkedin.com/in/anderson-fonseca-b459a0177/) 
+[![Instagram Badge](https://img.shields.io/badge/-@theandersonfonseca-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/theandersonfonseca/)](https://www.instagram.com/theandersonfonseca/) 
 
 - I live in São Paulo, Brazil :cityscape:
 - I'm currently trying become fluent in JavaScript :computer:
