@@ -4,7 +4,7 @@
 
 - 21 years old :smiley:
 - I live in São Paulo, Brazil :cityscape:
-- I'm currently trying become fluent in JavaScript :computer:
+- Focused on JavaScript and its entire ecosystem :computer:
 ___
 
 ### Languages and Tools:
