@@ -1,7 +1,6 @@
 # Anderson Fonseca
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fonseca-b459a0177/)](https://www.linkedin.com/in/anderson-fonseca99/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/theandersonfonseca/)](https://www.instagram.com/theandersonfonseca/) 
 ___
 
 ### About me:
