@@ -5,9 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theandersonfonseca/)
 ___
 
-### 🤵 About me:  
+### 📚 About me:  
 :computer: Focused on JavaScript and its entire ecosystem  
-:computer: I’m currently working with TypeScript and React/Redux  
+:computer: I’m currently working with TypeScript, React, Redux, Styled Components and Git  
 :computer: I’m currently learning Next.js and GraphQL
 
 ### 🛠 My Stack:
