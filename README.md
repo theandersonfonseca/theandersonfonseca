@@ -10,7 +10,7 @@ ___
 :computer: I’m currently working with TypeScript, React, Redux, Styled Components and Git  
 :computer: I’m currently learning Next.js and GraphQL
 
-### 🛠 My Stack:
+### 🛠 Languages and Tools:
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
