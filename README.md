@@ -6,9 +6,8 @@
 ___
 
 ### 📚 About me:  
-:computer: Focused on JavaScript and its entire ecosystem  
-:computer: I’m currently working with TypeScript, React, Redux, Styled Components and Git  
-:computer: I’m currently learning Next.js and GraphQL
+- Focused on JavaScript and its entire ecosystem  
+- I’m currently learning Next.js and GraphQL
 
 ### 🛠 Languages and Tools:
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
