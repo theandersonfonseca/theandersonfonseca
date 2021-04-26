@@ -6,6 +6,7 @@
 ___
 
 ### 📚 About me:  
+- I have been dedicating myself to Front-end Development for over a year
 - Focused on JavaScript and its entire ecosystem  
 - I’m currently learning Next.js and GraphQL
 
