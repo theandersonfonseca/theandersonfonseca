@@ -17,4 +17,7 @@ ___
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=Next.js&logoColor=Black)
+![Jest Badge](https://img.shields.io/badge/jest-99424F?&style=for-the-badge&logo=jest&logoColor=#99424Fe)
+![Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-BC1A19?&style=for-the-badge&logo=testing-library&logoColor=#BC1A19)
 ![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
