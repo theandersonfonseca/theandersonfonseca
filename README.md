@@ -9,9 +9,9 @@
 ___
   
 ### 👨🏾‍💻 About me:  
-- I have been dedicating myself to Front-end Development for over a year
+- About two years studying front-end development 
 - Focused on JavaScript and its entire ecosystem  
-- I’m currently learning Next.js and GraphQL
+- I’m currently learning GraphQL and Apollo
 
 ___
 
@@ -22,8 +22,8 @@ ___
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=Next.js&logoColor=Black)
 ![Jest Badge](https://img.shields.io/badge/jest-99424F?&style=for-the-badge&logo=jest&logoColor=#99424Fe)
 ![Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-BC1A19?&style=for-the-badge&logo=testing-library&logoColor=#BC1A19)
+![Cypress Badge](https://img.shields.io/badge/cypress-030303?&style=for-the-badge&logo=cypress&logoColor=#030303)
 ![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
