@@ -11,7 +11,7 @@ ___
 ### 👨🏾‍💻 About me:  
 - About two years studying front-end development 
 - Focused on JavaScript and its entire ecosystem  
-- I’m currently learning GraphQL and Apollo
+- I’m currently learning Jest, React Testing Library and Cypress
 
 ___
 
