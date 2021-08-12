@@ -27,3 +27,11 @@ ___
 ![Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-BC1A19?&style=for-the-badge&logo=testing-library&logoColor=#BC1A19)
 ![Cypress Badge](https://img.shields.io/badge/cypress-030303?&style=for-the-badge&logo=cypress&logoColor=#030303)
 ![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+___
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theandersonfonseca&layout=compact&theme=dark"/>
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theandersonfonseca&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+</p>
