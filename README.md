@@ -1,5 +1,5 @@
 <div align="center">
-  <p><h1>Hi there 👋🏽, I'm Anderson</h1><p/>     
+  <p><img src="https://i.ibb.co/4mzyVwN/banner.png" alt="banner" border="0"><p/>      
 
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fonseca-b459a0177/)](https://www.linkedin.com/in/anderson-fonseca99/)
   [![Hotmail Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:andersonfonseca1999@hotmail.com?Subject)
