@@ -11,7 +11,7 @@ ___
 ### 👨🏾‍💻 About me:  
 - Two years studying front-end development 
 - Focused on JavaScript and its entire ecosystem  
-- I'm currently learning Node.js/Express, GraphQL and Apollo
+- I'm currently learning Node.js/Express
 
 ___
 
