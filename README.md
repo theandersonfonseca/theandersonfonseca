@@ -1,18 +1,15 @@
 <div align="center">
-  <p><img src="https://i.ibb.co/4mzyVwN/banner.png" alt="banner" border="0"><p/>      
+   <h1>Hi there 👋🏽, I'm Anderson</h1>      
 
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fonseca-b459a0177/)](https://www.linkedin.com/in/anderson-fonseca99/)
   [![Hotmail Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:andersonfonseca1999@hotmail.com?Subject)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theandersonfonseca/)
 </div>
-
-___
   
 ### 👨🏾‍💻 About me:  
-- Two years studying front-end development 
+- Trainee Full Stack Developer at FCamara 
+- Two years studying Web Development 
 - Focused on JavaScript and its entire ecosystem  
 - I'm currently learning Node.js/Express
-
 ___
 
 ### 🛠 Languages and Tools:
@@ -23,7 +20,8 @@ ___
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=Next.js&logoColor=Black)
+![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![Jest Badge](https://img.shields.io/badge/jest-99424F?&style=for-the-badge&logo=jest&logoColor=#99424Fe)
 ![Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-BC1A19?&style=for-the-badge&logo=testing-library&logoColor=#BC1A19)
-![Cypress Badge](https://img.shields.io/badge/cypress-030303?&style=for-the-badge&logo=cypress&logoColor=#030303)
 ![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
