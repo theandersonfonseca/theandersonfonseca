@@ -8,8 +8,7 @@
 ### 👨🏾‍💻 About me:  
 - Trainee Full Stack Developer at FCamara 
 - Two years studying Web Development 
-- Focused on JavaScript and its entire ecosystem  
-- I'm currently learning Node.js/Express
+- I'm currently learning Java
 ___
 
 ### 🛠 Languages and Tools:
