@@ -8,7 +8,6 @@
 ### 👨🏾‍💻 About me:  
 - Trainee Full Stack Developer at FCamara 
 - Two years studying Web Development 
-- I'm currently learning Java
 ___
 
 ### 🛠 Languages and Tools:
