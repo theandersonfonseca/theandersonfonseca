@@ -6,8 +6,8 @@
 </div>
   
 ### 👨🏾‍💻 About me:  
-- Trainee Full Stack Developer at FCamara 
-- Two years studying Web Development 
+- I've been studying web development since 2020
+- Full Stack Developer at FCamara 
 ___
 
 ### 🛠 Languages and Tools:
