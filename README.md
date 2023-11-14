@@ -6,20 +6,24 @@
 </div>
   
 ### 👨🏾‍💻 About me:  
-- I've been studying web development since 2020
-- Full Stack Developer at FCamara 
+- 2 years of experience in Web Development
+- Full Stack Developer at Grupo FCamara 
 ___
 
 ### 🛠 Languages and Tools:
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=Next.js&logoColor=Black)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/jest-99424F?&style=for-the-badge&logo=jest&logoColor=#99424Fe)
-![Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-BC1A19?&style=for-the-badge&logo=testing-library&logoColor=#BC1A19)
-![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Wordpress Badge](https://img.shields.io/badge/wordpress-23282D?&style=for-the-badge&logo=wordpress&logoColor=white)
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-F6009B?&style=for-the-badge&logo=graphql&logoColor=white)
+![Git Badge](https://img.shields.io/badge/git-F05033?&style=for-the-badge&logo=git&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-1D63ED?&style=for-the-badge&logo=docker&logoColor=white)
+
+
