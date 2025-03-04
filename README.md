@@ -6,7 +6,7 @@
 </div>
   
 ### 👨🏾‍💻 About me:  
-- 2 years of experience in Web Development
+- 3 years of experience in Web Development
 - Full Stack Developer at Grupo FCamara 
 ___
 
