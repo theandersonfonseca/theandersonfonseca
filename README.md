@@ -6,7 +6,7 @@
 </div>
   
 ### 👨🏾‍💻 About me:  
-- 3 years of experience in Web Development
+- 4 years of experience in Web Development
 - Full Stack Developer at Grupo FCamara 
 ___
 
@@ -21,7 +21,6 @@ ___
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/jest-99424F?&style=for-the-badge&logo=jest&logoColor=#99424Fe)
-![Wordpress Badge](https://img.shields.io/badge/wordpress-23282D?&style=for-the-badge&logo=wordpress&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-F6009B?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-F05033?&style=for-the-badge&logo=git&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-1D63ED?&style=for-the-badge&logo=docker&logoColor=white)
